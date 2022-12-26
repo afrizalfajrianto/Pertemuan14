@@ -95,3 +95,5 @@ print(replace(txt[:1]))
 
 
 di sini cara mengganti karakter masih menggunakan method *replace( )* dan di deklarasi nomor *ARRAY* pada kurung siku.
+
+SELESAI.
